@@ -1,0 +1,11 @@
+퍼스펙티브 perspective : java EE perspective 와 java perspective
+
+
+
+자격증을 워드 때부터 필기->실기로 해서 대략 10년간 그렇게 Computer 을 해와서 필기-이론(용어)을 익히고 해야 마음에 안정을 갖고, 
+ 다음단계 실기를 한다(습관)  입시의 폐해인가?,  자격증의 폐해 인가? 그렇게 해야 궁금함 없이 다음 단계인 실기를 할수 있다.
+이론 용어 모르면 실기 하기가 망설여 진다.  전화위복 새옹지마 이다. 지금 안좋은게 나중에 더 나은 결과를 얻게 된다.
+
+Plug-in org.springsource.ide.eclipse.commons.gettingstarted was unable to load class org.springsource.ide.eclipse.commons.gettingstarted.dashboard.WelcomeDashboard.
+
+

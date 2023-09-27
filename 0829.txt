@@ -1,0 +1,13 @@
+<1> 잠온다 어제 3시간30분 자서... 비도오고.. 어제 많은일 해서 피곤하기도 하고,
+
+<2> 약국에서 2통 받았는데 하루이틀지났는데 약안먹고 있어서 필요 없을것 같은데... 2주 이내에 환불가능 하다고 함. 9월8일(금요일) 환불 하려가야 하나?
+
+9월1일 약국에 전화해서 문의하기  
+
+스프링 STS(spring tool suit) 스프링도구 적용
+                            DT(transfer object)O(VO)only read         setter, getter, requet, response= read,  순수data, 주고받는데 사용 DTO(VO)only read       DTO(VO)only read, 순수객체,                                                     DAO(data Access object) 
+서버요청( jsp[html 속에 java]-->java[java 속에 html] )  --> 2)controller->3)service-> 4)repository<->DB
+
+
+repository(mapper=  DA(Access):data  접근객체, 접근후 crud, API                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          필요, (O=persistence) 모두같은말
+DAO
